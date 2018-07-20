@@ -20,7 +20,6 @@
       }
     ],
     "typescript/no-unused-vars": 2,
-    "typescript/no-var-requires": 2,
-    "typescript/type-annotation-spacing": 2
+    "typescript/no-var-requires": 2
   }
 }
