@@ -5,6 +5,7 @@
     "typescript"
   ],
   "rules": {
+    "no-undef": 0,
     "typescript/adjacent-overload-signatures": 2,
     "typescript/class-name-casing": 2,
     "typescript/no-array-constructor": 2,
