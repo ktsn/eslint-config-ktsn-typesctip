@@ -11,15 +11,6 @@
     "typescript/no-array-constructor": 2,
     "typescript/no-empty-interface": 2,
     "typescript/no-triple-slash-reference": 2,
-    "typescript/no-type-alias": [
-      2,
-      {
-        "allowAliases": true,
-        "allowCallbacks": true,
-        "allowLiterals": "in-unions-and-intersections",
-        "allowMappedTypes": true
-      }
-    ],
-    "typescript/no-unused-vars": 2
+    "no-unused-vars": 0
   }
 }
