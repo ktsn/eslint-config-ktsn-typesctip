@@ -1,16 +1,16 @@
 {
   "extends": "ktsn",
-  "parser": "typescript-eslint-parser",
+  "parser": "@typescript-eslint/parser",
   "plugins": [
-    "typescript"
+    "@typescript-eslint"
   ],
   "rules": {
     "no-undef": 0,
-    "typescript/adjacent-overload-signatures": 2,
-    "typescript/class-name-casing": 2,
-    "typescript/no-array-constructor": 2,
-    "typescript/no-empty-interface": 2,
-    "typescript/no-triple-slash-reference": 2,
+    "@typescript-eslint/adjacent-overload-signatures": 2,
+    "@typescript-eslint/class-name-casing": 2,
+    "@typescript-eslint/no-array-constructor": 2,
+    "@typescript-eslint/no-empty-interface": 2,
+    "@typescript-eslint/no-triple-slash-reference": 2,
     "no-dupe-class-members": 0,
     "no-unused-vars": 0
   }
