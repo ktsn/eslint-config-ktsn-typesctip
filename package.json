@@ -16,13 +16,13 @@
     "test": "eslint -c eslintrc.json ."
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^2.34.0",
-    "@typescript-eslint/parser": "^2.34.0",
+    "@typescript-eslint/eslint-plugin": "^3.3.0",
+    "@typescript-eslint/parser": "^3.3.0",
     "eslint-config-ktsn": "^2.0.1"
   },
   "devDependencies": {
-    "eslint": "^6.0.1",
+    "eslint": "^7.3.0",
     "prettier": "^2.0.5",
-    "typescript": "^3.9.2"
+    "typescript": "^3.9.5"
   }
 }
